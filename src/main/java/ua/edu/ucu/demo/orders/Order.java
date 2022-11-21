@@ -1,12 +1,10 @@
 package ua.edu.ucu.demo.orders;
 
+import ua.edu.ucu.demo.payments.Payment;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.Setter;
 import ua.edu.ucu.demo.delivery.Delivery;
-import ua.edu.ucu.demo.orders.Item;
-import ua.edu.ucu.demo.payments.Payment;
-
 import java.util.List;
 
 

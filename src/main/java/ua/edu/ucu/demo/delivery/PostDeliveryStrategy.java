@@ -1,6 +1,5 @@
 package ua.edu.ucu.demo.delivery;
 
-
 import ua.edu.ucu.demo.orders.Item;
 
 import java.util.List;

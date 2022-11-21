@@ -1,1 +1,1 @@
-{"resources":{"Scripts/Script.sql":{"default-datasource":"postgres-jdbc-1846d8ade95-5a8b2d4151de62e"}}}
+{"resources":{"Scripts/Script.sql":{"default-schema":"public","default-datasource":"postgres-jdbc-1846d8ade95-5a8b2d4151de62e","default-catalog":"flowers"}}}
